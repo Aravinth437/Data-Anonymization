@@ -1,1 +1,4 @@
-# Data-Anonymisation
+# DATA ANONYMIZATION
+## BCI2001 - DATA PRIVACY - PROJECT
+### TTILE: Anonymization of User's Time Series Data
+#### FALL SEMESTER 2022-23
