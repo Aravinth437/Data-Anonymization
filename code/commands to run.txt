@@ -1,0 +1,13 @@
+FEW SAMPLE COMMANDS TO RUN:
+
+python3 kp-anonymity.py naive 10 2 5 Dataset/New_IP/Covid_19_Confirmed_Cases_Kerala.csv Dataset/New_OP/Covid_19_anonymised_naive.csv
+
+
+python3 kp-anonymity.py naive 10 3 4 Dataset/New_IP/Covid_19_Confirmed_Cases_Kerala.csv Dataset/New_OP/Covid_19_anonymised_kapra.csv
+
+python3 kp-anonymity.py naive 10 2 5 Dataset/New_IP/DailyDelhiClimateTest.csv Dataset/New_OP/Delhi_Climate_Anonymised_naive.csv
+
+
+python3 kp-anonymity.py kapra 10 2 5 Dataset/New_IP/DailyDelhiClimateTest.csv Dataset/New_OP/Delhi_Climate_Anonymised_kapra.csv
+
+
